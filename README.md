@@ -357,6 +357,15 @@ Until publication, this repository primarily serves as a **research portfolio an
 
 ---
 
+## 🔗 Related Projects
+
+- [🦾 **Humanoid Motion Learning**](https://github.com/wwryy/humanoid-robot-learning) — video motion recovery, retargeting, tracking-policy learning, and Unitree G1 validation
+- [🎮 **Tetris Closed-Loop Control**](https://github.com/wwryy/tetris-closed-loop-control) — perception–decision–execution verification in a compact visual-control environment
+
+The unpublished research code, data, and original project media remain all rights reserved unless otherwise noted.
+
+---
+
 ## 📬 Contact
 
 **Weiran Wang**  
